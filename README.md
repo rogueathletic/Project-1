@@ -1,2 +1,2 @@
 # Project-1
-Initial Repository
+Initial Repository for UC San Diego Course
